@@ -1,4 +1,4 @@
-🎮 Advanced Tic-Tac-Toe Game (Python + Tkinter)
+🎮 Tic-Tac-Toe Game (Python + Tkinter)
 
 An interactive, modern Tic-Tac-Toe game built using Python and Tkinter, featuring AI with multiple difficulty levels, 2-player mode, round-based gameplay, and a beautiful responsive UI.
 
